@@ -6,7 +6,7 @@ This project is an end-to-end **Flood Monitoring System** built using **Azure Bl
 
 ## **Project Overview**
 
-Flooding can cause severe impacts on infrastructure, communities, and ecosystems. This project aims to provide a real-time flood monitoring solution to track flood alerts, severity levels, and affected areas using a comprehensive data pipeline and AI-driven insights.
+Flooding can cause severe impacts on infrastructure, communities, and ecosystems. This project aims to provide a real-time flood monitoring solution to track flood alerts, severity levels, and affected areas using a comprehensive data pipeline with valuable insights.
 
  ![flood_dashboard2](https://github.com/user-attachments/assets/76a55b62-b041-46d3-9f36-d9a2d478f128)
 
@@ -48,7 +48,7 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 ---
 ## **Project explanation**
 
-1. **Services overview (azure resource group**
+1. **Services overview (azure resource group)**
    ![flood_rg](https://github.com/user-attachments/assets/ef690172-0cac-4158-af8b-f3bb8d9a8ce6)
 
 
@@ -57,8 +57,9 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 3. **data transforations (databricks)**
    ![databricks_code3](https://github.com/user-attachments/assets/b9cf2639-7a12-44c1-b831-6c494bd971ff)
 4. **ADF pipeline**
+   
   ![pipeline_1](https://github.com/user-attachments/assets/46d76648-f800-4e0f-b824-0855486b3e1c)
-5. **Power BI Dashboard**
+6. **Power BI Dashboard**
 
 ### **Visualizations**
 - **Interactive Map (flood location focus)**:
