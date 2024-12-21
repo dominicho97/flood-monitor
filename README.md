@@ -12,6 +12,7 @@ Flooding can significantly impact infrastructure, communities, and ecosystems. T
 - Identify **affected areas**.
 - Enable data-driven decisions using a scalable and automated Azure data pipeline.
 
+## **Dashboard**
 ![Flood Monitoring Dashboard](https://github.com/user-attachments/assets/76a55b62-b041-46d3-9f36-d9a2d478f128)
 
 ---
@@ -101,6 +102,4 @@ Flooding can significantly impact infrastructure, communities, and ecosystems. T
   - Most affected regions.
   - Recent severity changes.
 
-![Power BI Dashboard](https://github.com/user-attachments/assets/104ba17f-55f5-4639-97e5-51684b748417)
 
----
