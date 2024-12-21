@@ -13,6 +13,9 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
   - Fetches live flood data from the API and stores it in Azure Blob Storage.
 - **Data Transformation**:
   - Cleanses and flattens raw JSON data using Azure Databricks.
+- **Automation**:
+  - Azure Data Factory automates the data pipeline for regular updates.
+    
 - **Interactive Visualizations**:
   - Power BI dashboards for visualizing flood alerts, severity trends, and affected regions.
 
