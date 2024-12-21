@@ -46,6 +46,8 @@ Flooding can significantly impact infrastructure, communities, and ecosystems. T
 
 ## **Architecture**
 
+![architecture_flood](https://github.com/user-attachments/assets/77d45edf-02d0-4e82-b84e-801920a8bbfd)
+
 ### **High-Level Data Flow**
 1. Data ingestion from the Flood Monitoring API using **Azure Data Factory**.
 2. Raw JSON data stored in **Azure Blob Storage** (Raw Container).
