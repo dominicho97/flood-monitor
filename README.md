@@ -10,7 +10,7 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 
 ### **Key Features**
 - **Real-Time Data Pipeline**:
-  - Fetches live flood data from the API and stores it in Azure Blob Storage.
+  - Fetches live flood data from the API using Azure Data Factory and stores it in Azure Blob Storage.
 - **Data Transformation**:
   - Cleanses and flattens raw JSON data using Azure Databricks.
 - **Automation**:
@@ -25,7 +25,7 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 
 | **Component**          | **Technology**                                                                 |
 |-------------------------|-------------------------------------------------------------------------------|
-| **Data Ingestion**      | [Flood Monitoring API](https://environment.data.gov.uk/flood-monitoring/doc/reference) |
+| **Data Ingestion**      | Azure Data Factory                                                           |
 | **Data Storage**        | Azure Blob Storage                                                           |
 | **Data Transformation** | Azure Databricks                                                             |
 | **Data Orchestration**  | Azure Data Factory                                                           |
