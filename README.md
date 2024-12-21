@@ -16,8 +16,6 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 - **Interactive Visualizations**:
   - Power BI dashboards for visualizing flood alerts, severity trends, and affected regions.
 
-Possible improvement: - **Automation**:
-  - Azure Data Factory automates the data pipeline for regular updates).
 ---
 
 ## **Technologies Used**
@@ -29,7 +27,7 @@ Possible improvement: - **Automation**:
 | **Data Transformation** | Azure Databricks                                                             |
 | **Data Orchestration**  | Azure Data Factory                                                           |
 | **Visualization**       | Power BI                                                                     |
-| **Monitoring**          | Azure Monitor (for alerts and performance tracking)                          |
+
 
 ---
 
@@ -48,12 +46,15 @@ Possible improvement: - **Automation**:
 ## **Power BI Dashboard**
 
 ### **Visualizations**
-- **Interactive Map**:
+- **Interactive Map (flood location focus)**:
   - Displays flood-affected regions with severity levels.
-- **Time-Series Chart**:
-  - Tracks flood alerts over time.
+  - 
+- **Interactive Map (severity level focus )**:
+  - Displays flood-affected regions with severity levels.
+
 - **Severity Breakdown**:
-  - Bar chart showing the distribution of severity levels.
+  - Bar chart showing the distribution of severity levels per by flood-affected region .
+  - 
 - **Key Metrics**:
   - Total alerts, most affected regions, and recent severity changes.
 
