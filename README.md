@@ -15,9 +15,9 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
   - Cleanses and flattens raw JSON data using Azure Databricks.
 - **Interactive Visualizations**:
   - Power BI dashboards for visualizing flood alerts, severity trends, and affected regions.
-- **Automation**:
-  - Azure Data Factory automates the data pipeline for regular updates.
 
+Possible improvement: - **Automation**:
+  - Azure Data Factory automates the data pipeline for regular updates).
 ---
 
 ## **Technologies Used**
