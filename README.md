@@ -55,7 +55,7 @@ Flooding can significantly impact infrastructure, communities, and ecosystems. T
 4. Processed data stored in **Azure Blob Storage** (Processed Container).
 5. Insights visualized through **Power BI Dashboards**.
 
-![Architecture Diagram](images/flood_monitor_architecture.png)
+
 
 ---
 
