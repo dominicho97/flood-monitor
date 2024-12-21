@@ -48,21 +48,17 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 ---
 
 
-1. **Dashboard Overview**
-  ![flood_dashboard2](https://github.com/user-attachments/assets/76a55b62-b041-46d3-9f36-d9a2d478f128)
-
-
-3. **Services overview (azure resource group**
+1. **Services overview (azure resource group**
    ![flood_rg](https://github.com/user-attachments/assets/ef690172-0cac-4158-af8b-f3bb8d9a8ce6)
 
 
-4. **Blob storage, data transformation, ADF pipeline**
+2. **Blob storage, data transformation, ADF pipeline**
    ![blob](https://github.com/user-attachments/assets/d95279e4-a511-4000-afe6-1640e68fa1f5)
-***data transforations (databricks)***
+3. **data transforations (databricks)**
    ![databricks_code3](https://github.com/user-attachments/assets/b9cf2639-7a12-44c1-b831-6c494bd971ff)
-***ADF pipeline***
+4. **ADF pipeline**
   ![pipeline_1](https://github.com/user-attachments/assets/46d76648-f800-4e0f-b824-0855486b3e1c)
-6. ## **Power BI Dashboard**
+5. **Power BI Dashboard**
 
 ### **Visualizations**
 - **Interactive Map (flood location focus)**:
