@@ -46,20 +46,7 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
 
 ---
 
-## **Power BI Dashboard**
 
-### **Visualizations**
-- **Interactive Map (flood location focus)**:
-  - Displays flood-affected regions with severity levels.
-  - 
-- **Interactive Map (severity level focus )**:
-  - Displays flood-affected regions with severity levels.
-
-- **Severity Breakdown**:
-  - Bar chart showing the distribution of severity levels per by flood-affected region .
-  - 
-- **Key Metrics**:
-  - Total alerts, most affected regions, and recent severity changes.
 
 ### **Screenshots**
 1. **Dashboard Overview**
@@ -76,7 +63,20 @@ Flooding can cause severe impacts on infrastructure, communities, and ecosystems
    ![databricks_code3](https://github.com/user-attachments/assets/b9cf2639-7a12-44c1-b831-6c494bd971ff)
 ***ADF pipeline***
   ![pipeline_1](https://github.com/user-attachments/assets/46d76648-f800-4e0f-b824-0855486b3e1c)
-6. **Power BI**
+6. ## **Power BI Dashboard**
+
+### **Visualizations**
+- **Interactive Map (flood location focus)**:
+  - Displays flood-affected regions with severity levels.
+  - 
+- **Interactive Map (severity level focus )**:
+  - Displays flood-affected regions with severity levels.
+
+- **Severity Breakdown**:
+  - Bar chart showing the distribution of severity levels per by flood-affected region .
+  - 
+- **Key Metrics**:
+  - Total alerts, most affected regions, and recent severity changes.
   ![powerbi_renamed](https://github.com/user-attachments/assets/104ba17f-55f5-4639-97e5-51684b748417)
 
 
