@@ -3,10 +3,6 @@
 This project is an end-to-end **Flood Monitoring System** built using **Azure Blob Storage**, **Azure Data Factory**, **Azure Databricks**, and **Power BI**. It integrates data from the [Flood Monitoring API](https://environment.data.gov.uk/flood-monitoring/doc/reference) and provides actionable insights through an interactive **Power BI dashboard**.
 
 
-
-
-![flood_dashboard](https://github.com/user-attachments/assets/b8bb8aa2-a467-43ce-af49-5a9c48496b49)
-
 ---
 
 ## **Overview**
@@ -18,7 +14,7 @@ Flooding can significantly impact infrastructure, communities, and ecosystems. T
 - Enable data-driven decisions using a scalable and automated Azure data pipeline.
 
 ## **Dashboard**
-![Flood Monitoring Dashboard](https://github.com/user-attachments/assets/76a55b62-b041-46d3-9f36-d9a2d478f128)
+![flood_dashboard](https://github.com/user-attachments/assets/b8bb8aa2-a467-43ce-af49-5a9c48496b49)
 
 ---
 
